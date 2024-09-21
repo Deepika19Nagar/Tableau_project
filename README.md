@@ -20,4 +20,4 @@ This way the manager can take initiatives to improve customer
 conversion rates, increase customer retention, and maximize customer 
 lifetime value.
 
-Here,there are few dashboards created for the visualisation of information regading project.
+
